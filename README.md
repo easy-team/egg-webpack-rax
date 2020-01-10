@@ -42,7 +42,7 @@ exports.webpackrax = {
 
 ```js
 // {app_root}/config/config.default.js
-exports.webpackreact = {
+exports.webpackrax = {
 };
 ```
 
@@ -50,7 +50,7 @@ see [config/config.default.js](config/config.default.js) for more detail.
 
 ## Example
 
-React server side render example, please see [egg-react-webpack-boilerplate](https://github.com/hubcarl/egg-react-webpack-boilerplate)
+React server side render example, please see [egg-react-webpack-boilerplate](https://github.com/easy-team/egg-react-webpack-boilerplate)
 
 ## Questions & Suggestions
 
