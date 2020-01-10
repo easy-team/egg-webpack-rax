@@ -54,7 +54,7 @@ React server side render example, please see [egg-react-webpack-boilerplate](htt
 
 ## Questions & Suggestions
 
-Please open an issue [here](https://github.com/eggjs/egg/issues).
+Please open an issue [here](https://github.com/easy-team/egg-react-webpack-boilerplate/issues).
 
 ## License
 
